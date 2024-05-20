@@ -1,0 +1,13 @@
+name: authentication_repository
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+
+dependencies:
+  equatable: ^2.0.5
+  firebase_auth: ^4.9.0
+  google_sign_in: ^6.1.5
+  

@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "797028995614",
+    "firebase_url": "https://resqteam-c04df-default-rtdb.firebaseio.com",
+    "project_id": "resqteam-c04df",
+    "storage_bucket": "resqteam-c04df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797028995614:android:6fc27d5db3aadd5680940f",
+        "android_client_info": {
+          "package_name": "com.example.redqteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797028995614-dalr3b856in444n3kkmcu107p5othssj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.redqteam",
+            "certificate_hash": "f81b90e481977e1763b84d98a71d997617e1e298"
+          }
+        },
+        {
+          "client_id": "797028995614-rh66p997581i21qrab8m8njlm6ge18u0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.redqteam",
+            "certificate_hash": "c02b52f7c385ede62326a8d58d374267db8fbbf1"
+          }
+        },
+        {
+          "client_id": "797028995614-8iqak1gtlnfmvanenut7mh1asam519eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACOrP4YkWImkoTn_DLtxR1qF1fMO5lQVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797028995614-8iqak1gtlnfmvanenut7mh1asam519eu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797028995614-hl1guj48q8rqts9r02m73fnib569j55j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.redqteam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
